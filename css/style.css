@@ -1,21 +1,25 @@
-body{
+body {
   background-color: rgb(77, 109, 109);
-  color:white;
+  color: white;
   text-align: center;
 }
-h1{
-  color:black;
+
+h1 {
+  color: black;
   background-color: blanchedalmond;
 }
-li{
+
+li {
   list-style: none;
 }
-#image-div{
+
+#image-div {
   width: 100%;
   height: auto;
   margin: auto;
 }
-#image{
+
+#image {
   display: block;
   margin: auto;
   max-width: 100%;

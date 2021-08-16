@@ -1,5 +1,43 @@
-# FCC Test Suite Template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# Tribute Page
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> In this project, I will set up a Tribute Page repository from one of my Microverse Admission Trial projects. My goal here is to master all of the tools and best practices I've learned about GitHub flow rules, .gitignore file, linters for HTML and CSS, and documenting my work in a professional way.
+
+![screenshot](./images/Screenshot-tribute.png)
+
+In this project I will write a review that checks for all the requirements that meet the best practices for writing code.
+
+## Built With
+
+- Html/Css
+- JavaScript
+- Babel
+
+
+## Authors
+
+👤 **Simo Nkosi**
+
+- GitHub: [@githubhandle](https://github.com/KDlamini)
+- Twitter: [@twitterhandle](https://twitter.com/RealSimoNkosi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/simo-nkosi-418523180/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/KDlamini/Admissions-trial-tribute-page/issues).
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- This project is part of week 2 of module 1 in the Microverse study program.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
