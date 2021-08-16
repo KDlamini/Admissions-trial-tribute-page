@@ -26,7 +26,8 @@ In this project I will write a review that checks for all the requirements that 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/KDlamini/Admissions-trial-tribute-page/issues).
 
 
 ## Show your support
